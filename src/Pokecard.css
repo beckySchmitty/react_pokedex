@@ -1,0 +1,18 @@
+.Pokecard-h3 {
+    color: teal;
+}
+
+.Pokecard {
+    border: 1px solid  rgb(248, 164, 230);
+    border-radius: 15px;
+    background-color: rgb(248, 164, 230);
+    color: teal;
+    font-weight: bold;
+    margin: 20px;
+    text-align: center;
+    width: 200px;
+}
+
+.Pokecard-img {
+    width: 100px;
+}
